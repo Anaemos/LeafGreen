@@ -1,0 +1,43 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data and model files (too large for GitHub)
+data/
+models/
+outputs/
+*.h5
+*.pth
+*.pt
+*.ckpt
+*.zip
+*.tar
+*.tar.gz
+
+# Environment and dependency files
+.env
+venv/
+.venv/
+env/
+*.egg-info/
+
+# System / OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
