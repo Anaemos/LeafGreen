@@ -8,7 +8,7 @@ LeafGreen/
 │   └── processed/       # Cleaned, resized, or augmented images
 │
 ├── notebooks/
-│   ├── 01_data_prep.ipynb        # Data loading, cleaning, and visualization
+│   ├── 01_data_preparation.ipynb        # Data loading, cleaning, and visualization
 │   ├── 02_model_training.ipynb   # Model creation & training
 │   ├── 03_evaluation.ipynb       # Model testing and metrics
 │   └── 04_inference.ipynb        # Predict disease on new leaf images
