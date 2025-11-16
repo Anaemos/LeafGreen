@@ -21,6 +21,7 @@ outputs/
 
 # Environment and dependency files
 .env
+venv310/
 venv/
 .venv/
 env/
