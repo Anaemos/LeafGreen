@@ -1,5 +1,9 @@
 # **LeafGreen — Model Training Explanation (MD for Report)**
 
+
+## **Drive Link for our model (.pth file) https://drive.google.com/file/d/1_E6enLw3kD1tiaRImy_PvtqLdIEQBt8f/view?usp=drive_link**
+
+
 ## **1. Model Used: ResNet-50**
 
 For LeafGreen, we used **ResNet-50**, a deep Convolutional Neural Network with 50 layers.
