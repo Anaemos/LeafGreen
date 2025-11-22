@@ -1,4 +1,4 @@
-# **LeafGreen — Model Training Explanation (MD for Viva / Report)**
+# **LeafGreen — Model Training Explanation (MD for Report)**
 
 ## **1. Model Used: ResNet-50**
 
@@ -230,7 +230,7 @@ After each epoch:
 * If validation accuracy improved → model saved to Google Drive.
 
 ```python
-torch.save(model.state_dict(), "/content/drive/MyDrive/LeafGreen/best_model.pth")
+torch.save(model.state_dict(), "/content/drive/MyDrive/LeafGreen/model.pth")
 ```
 
 This allows reuse in:
@@ -258,6 +258,5 @@ LeafGreen produces a trained ResNet-50 model that:
 Later notebooks:
 
 * `03_evaluation.ipynb` → confusion matrix, F1 score
-* `04_inference.ipynb` → upload leaf image → predict class
 
 This completes the full pipeline.
