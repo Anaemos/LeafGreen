@@ -1,7 +1,7 @@
 Full List of Classes (Plant Species + Diseases)
 
 The PlantVillage dataset contains 38 classes, each combining Plant Type + Disease.
-
+(link for the dataset: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)
 Here is the exact list of dataset classes:
 
 🍎 Apple
